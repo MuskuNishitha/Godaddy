@@ -1,0 +1,158 @@
+#conatiner1{
+    width:1350px;
+height:60px;
+color:black;
+background-color: black;
+border:1px solid black;
+}
+#conatiner{
+    top:1px;
+    position:absolute;
+    color:white;
+}
+.select{
+    background-color: rgb(2, 1, 1);
+    color:white;
+}
+#maindiv1{
+    top:20px;
+    position: relative;
+    display: flex;
+    margin-left: 30px;
+}
+#input{
+    width:500px;
+    height:50px;
+    text-indent: 30px;
+    font-size:20px;
+    color:rgb(105,105,105)
+}
+#button{
+    width:200px;
+    height:55px; 
+    margin-top:-30px;
+    margin-right: 10px;
+    color:white;
+    background-color: darkcyan;
+    border-color: darkcyan;
+}
+#inner2{
+    margin-top: 15px;
+    margin-left: 40px;
+}
+#container2{
+ top:40px;
+ position:relative;
+ display: flex;
+ justify-content: space-around;
+}
+#inerr3{
+    height:400px;
+    width:400px;
+    border:1px solid rgb(231, 145, 114);
+    background-color: rgb(252, 171, 142);
+
+}
+.button1{
+    width:130px;
+    height:30px;
+    color:white;
+    background-color: black;
+}
+#a:hover{
+    text-decoration: underline;
+}
+#h1{
+font-size: 40px;
+}
+#hey{
+    padding-left:30px ;
+}
+#hey p{
+    font-size: 18px;
+}
+#domaincom{
+    margin-top: -350px;
+}
+.h1{
+    font-size:40px;
+}
+#second:hover{
+    width:120px;
+    height:30px;
+}
+
+#maincontainer{
+    top:100px;
+    position: relative;
+}
+#nishitha{
+    display: flex;
+    justify-content: space-around;
+}
+#ud{
+    text-align: center;
+}
+#more{
+    font-size:40px;
+}
+.pro{
+    font-size:30px;
+}
+.explore{
+    border:1px solid black;
+    background-color: white;
+    color:black;
+    width:120px;
+    height:30px;
+}
+.explore:hover{
+    width:130px;
+    height:30px;
+}
+#we{
+    font-size:18px;
+    font-weight: bold;
+}
+#women{
+    top:180px;
+    position: relative;
+}
+
+#wo{
+    margin-left: 800px;
+    margin-top: -400px;
+}
+#wow{
+    margin-top: -250px; 
+    padding-left: 50px;
+}
+#bold{
+    font-size: 50px;
+}
+#still{
+    font-size: 18px;
+}
+#help{
+    height:50px;
+    width:150px;
+    background-color: black;
+     color:white;
+     border:1px solid black;
+     border-radius: 7px;
+}
+#mainco{
+    top:400px;
+    position:relative;
+     padding-left: 50px;
+
+}
+#nedd{
+    top:430px;
+    position: relative;
+    text-align: center;
+    font-size: 23px;
+}
+#dis{
+    text-decoration: underline;
+}
